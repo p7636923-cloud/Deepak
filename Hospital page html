@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"href="style.css">
+    <link href="<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">"
+
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div class="logo">
+                <h1>LifeCare</h1>
+
+            </div>
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#Doctor's">Doctor's</a></li>
+                <li><a href="#Speciality">Speciality</a></li>
+                <li><a href="#Patient">Patient Reviews</a></li>
+                <li><a href="#Contact ">Contact us</a></li>
+            </ul>
+        </nav>
+        <div class="main">
+            <div class="mainText">
+                <h1>The Hospital that <br>
+                    Care for you</h1>
+                <h3>Best Team</h3>
+                <button>Show more</button>
+            </div>
+            <img height="600"width="500"src="https://plus.unsplash.com/premium_photo-1681843126728-04eab730febe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"alt="">
+        </div>
+        <div id="doctor">
+            <div class="head">
+                <h1>Our Doctor's</h1>
+            </div>
+            <div class="tems">
+                <div class="card">
+                    <img src="https://media.istockphoto.com/id/1473337705/photo/cheerful-female-doctor-in-white-uniform-holding-clipboard-stock-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=j54vI2TrtSoqeutQzzkTgUROknxz7tU3cFovNkooX4M="alt="">
+                   <p>Alexa</p>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid corporis quos autem eveniet necessitatibus sed consequuntur obcaecati aspernatur? Suscipit impedit quaerat laboriosam quas nisi necessitatibus explicabo. Aspernatur voluptatem facere qui.</p>
+                </div>
+
+                    <div class="card">
+                        <img height="400"width="600"src="https://plus.unsplash.com/premium_photo-1661722609696-bf0379033f0e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2luZ2xlJTIwZG9jdG9yJTIwaW1hZ2UlMjB1bnBsdXNnfGVufDB8fDB8fHww"alt="">
+                        <p>Alexa</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptate delectus eos voluptatum dicta ipsam deleniti et quos voluptates facilis libero possimus vero, accusantium ratione ut doloribus neque quod itaque.</p>
+                    </div>
+
+                    <div class="card">
+                        <img src="https://media.istockphoto.com/id/1447908696/photo/medical-concept-of-asian-beautiful-female-doctor-in-white-coat-with-stethoscope-waist-up.webp?a=1&b=1&s=612x612&w=0&k=20&c=vxmRI4XdZwMxhl8gdDdMXATprWJ-rH3u1H0_GDacJLw="alt="">
+                        <p>Alexa</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem minima possimus quam repellendus temporibus eum odio recusandae voluptate nostrum nobis facere, deserunt fugit quae explicabo maxime. In sed eaque velit!</p>
+                        </div>
+                </div>
+
+            </div>
+        </div>
+        <div id="Speciality">
+            <div class="head">
+                <h1>Our Specility's</h1>
+            </div>
+            <div class="speciality">
+                <div class="spCard">
+                    <img height="400"width="500"src="https://media.istockphoto.com/id/92366781/photo/x-ray-image-of-knee.webp?a=1&b=1&s=612x612&w=0&k=20&c=qyJxmEUN8AS93GWohoNbw2tnmUdCOmP8bolTeC9ElF4="alt="">
+                    <img height="400"width="500"src="https://media.istockphoto.com/id/92963665/photo/x-ray-image-of-knee.webp?a=1&b=1&s=612x612&w=0&k=20&c=g-qSKw4TldiarjWe5FtRQs3pZQNGoN3K3rG1VE8hd4A="alt="">
+                     <img height="400"width="500"src="https://media.istockphoto.com/id/1289016631/photo/model-of-human-knee-and-leg-with-stethoscope-on-white-table-for-medical-education-and-x-ray.webp?a=1&b=1&s=612x612&w=0&k=20&c=3olES_rNq6Dsx57DvQgbmjjUCjawU5CHqq55OoBIp7A="alt="">
+                    <p>knee Surgery</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sit perspiciatis nobis necessitatibus error, repudiandae at deleniti aliquam omnis odit. Ad asperiores, nulla possimus quibusdam cum inventore! Tenetur, officiis labore!</p>
+
+                </div>
+                  <!-- <div class="spCard2"></div>
+                    <img height="400"width="500"src="https://media.istockphoto.com/id/2169696545/photo/arthritic-right-knee.webp?a=1&b=1&s=612x612&w=0&k=20&c=KOYdyQmBLPcVsy8uVzf13jI8WkS-4yXgass6fdwCmy8="alt="">
+                    <p>knee Surgery</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus consequuntur nesciunt minima cumque id asperiores perspiciatis aliquid! Deserunt quis iure totam minima? Velit iusto sapiente quod laboriosam facilis, fuga ex!</p>
+            </div>
+              <div class="spCard3"></div>
+                    <img height="400"width="500"src="https://media.istockphoto.com/id/1396288301/photo/joint-pain-arthritis-and-tendon-problems-a-man-touches-the-pain-point.webp?a=1&b=1&s=612x6="alt="">
+                    <p>knee Surgery</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias nobis architecto veritatis pariatur, porro labore minima, id tempore itaque corrupti ex eius. Nulla, ad placeat? Necessitatibus dolorem officiis molestiae ex?</p>
+        </div> -->
+
+     <div id="patient">
+        <div class="head">
+            <h1>Patient Reviews</h1>
+        </div>
+        <div class="reviews">
+            <div class="patientReview">
+                <img src="https://plus.unsplash.com/premium_photo-1729286323602-b40de4ced1be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGF0aWVudCUyMHJldmlld3MlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D"alt="">
+                <img src="https://plus.unsplash.com/premium_photo-1729286323509-940c922ada56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGF0aWVudCUyMHJldmlld3MlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D"alt="">
+                <img src="https://plus.unsplash.com/premium_photo-1729286323722-8ec789ebdfe1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGF0aWVudCUyMHJldmlld3N8ZW58MHx8MHx8fDA%3D"alt="">
+            </div>
+
+        </div>
+    </div>
+        <!-- <div class="reviews">
+            <div class="patientReview">
+                <img src="https://plus.unsplash.com/premium_photo-1729286323727-03ae1fdb054c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGF0aWVudCUyMHJldmlld3MlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D"alt="">
+                <img src=""alt="">
+            </div> -->
+
+           </div>
+        
+     </div>
+        </div>
+        <div id="contact">
+            <div class="head">
+                <h1>Contact Us</h1>
+            </div>
+
+            <div class="contact">
+                <h1>Connect with Us</h1>
+                <input type="text"placeholder="Enter email"id="email">
+                <input type="password"placeholder="Enter password"id="pass">
+                <button id="connectBtn">Connect</button>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="text">
+                <h3>About Us</h3>
+                <p>24 Hours</p>
+                <p>Top Doctor</p>
+                <p>Best Care</p>
+                <p>Patient</p>
+                <p></p>
+               
+                
+            </div>
+            <div class="footer">
+                <div class="text"></div>
+                    <h3>Speciality</h3> 
+                    <br>
+                    <p>knee surgery</p>
+
+                    <p>Spin surgery</p>
+                    <p>leg surgery</p>
+                    <p>Tenden surgery</p>
+                    <p></p> 
+        
+        </div>
+        <div class="text">
+            <h3>Best team</h3>
+            <p>Doctor</p>
+            <p>Nursing </p>
+            <p>Staff</p>
+            <p>Hospital</p>
+            <p></p>
+    </div>
+    <div class="text">
+        <h3>Address</h3>
+        <p>Near Mg Road</p>
+        <p>Galaxy Care</p>
+        <p>333-09093</p>
+        <p>09-883-090</p>
+        <p></p>
+    </div>
+    <div class="detail">
+        <button id="closeBtn">
+       <i class="fa-solid fa-xmark"></i>
+        </button>
+        <div class="content">
+
+    </div>
+</body>
+</html>
+<script src="app.js"></script>
